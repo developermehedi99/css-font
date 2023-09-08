@@ -1,0 +1,67 @@
+@import url('https://fonts.googleapis.com/css2?family=Dancing+Script:wght@700&display=swap');
+/* 
+font-family: 'Lato', sans-serif;
+font-family: 'Montserrat', sans-serif;
+font-family: 'Noto Sans Mahajani', sans-serif;
+font-family: 'Poppins', sans-serif;
+font-family: 'Raleway', sans-serif;
+*/
+
+.heading-tag{
+    background: green;
+    font-size: 33px;
+    text-align: center;
+    font-family: 'Lato', sans-serif;
+}
+.p-tag{
+    border: 3px dotted black;
+    font-family: 'Montserrat', sans-serif;
+
+    padding: 10px;
+    color: blueviolet;
+    font-size: 22px;
+}
+#mota{
+    background-color: chocolate;
+}
+#heading-snd{
+    font-family: 'Poppins', sans-serif;
+    text-align: right;
+    background: chocolate;
+    padding: 44px;
+    color: white;
+}
+.division{
+    font-size: 25px;
+    color: blue;
+    font-family: 'Raleway', sans-serif;
+
+}
+.division ul li:first-child{
+    color: red;
+}
+.division ul li:last-child{
+    color: rgb(22, 251, 225);
+}
+h5{
+    text-align: center;
+    font-style: italic;
+}
+.font-onno{
+    width: 800px;
+    margin: 20px auto;
+    background: pink;
+    border: 1px solid tomato;
+    padding: 28px;
+    font-weight: 700;
+    font-family: 'Dancing Script', cursive;
+    
+}
+.last-h3{
+    color: rgb(255, 255, 255);
+    background: rgb(255, 137, 137);
+    text-align: right;
+    font-size: 25px;
+    font-family: 'Noto Sans Mahajani', sans-serif;
+    padding: 10px;
+}
